@@ -1,3 +1,6 @@
+[![Upload Python Package](https://github.com/joegasewicz/bobtail-cors/actions/workflows/python-publish.yml/badge.svg)](https://github.com/joegasewicz/bobtail-cors/actions/workflows/python-publish.yml)
+[![Python package](https://github.com/joegasewicz/bobtail-cors/actions/workflows/python-package.yml/badge.svg)](https://github.com/joegasewicz/bobtail-cors/actions/workflows/python-package.yml)
+
 # Bobtail CORS
 CORS middleware for Bobtail
 
