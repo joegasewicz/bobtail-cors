@@ -2,7 +2,7 @@
 [![Python package](https://github.com/joegasewicz/bobtail-cors/actions/workflows/python-package.yml/badge.svg)](https://github.com/joegasewicz/bobtail-cors/actions/workflows/python-package.yml)
 
 # Bobtail CORS
-CORS middleware for Bobtail
+CORS middleware for [Bobtail](https://github.com/joegasewicz/bobtail)
 
 ### Install
 ```
